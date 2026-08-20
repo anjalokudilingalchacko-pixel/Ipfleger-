@@ -1,0 +1,52 @@
+# Logs and output files
+logs
+*.log
+*_output.txt
+dev_output.txt
+force_output.txt
+vite_output.txt
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Dependencies
+node_modules
+node_modules*
+dist
+dist-ssr
+*.local
+
+# Python / Server temporary files
+__pycache__/
+*.pyc
+*.pyo
+
+# Temp folders
+temp_repo2/
+
+# Local JSON "database" files — runtime/generated data, not source.
+*_db.json
+audit_log.json
+public/uploads/*
+!public/uploads/.gitkeep
+
+# Deployment: generated secrets/venv, not source (see deploy/*.template)
+deploy/venv/
+deploy/livekit.yaml
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
