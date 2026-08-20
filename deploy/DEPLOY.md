@@ -36,8 +36,8 @@ In your domain's DNS settings, add two **A records** pointing at the VPS's IP:
 SSH into the VPS as root, then:
 
 ```bash
-git clone https://github.com/anjalokudilingalchacko-pixel/pflegeDb.git
-cd pflegeDb
+git clone https://github.com/anjalokudilingalchacko-pixel/Ipfleger-.git
+cd Ipfleger-
 bash deploy/setup-vps.sh yourdomain.com you@youremail.com
 ```
 
