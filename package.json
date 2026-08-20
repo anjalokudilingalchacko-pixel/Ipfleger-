@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "start": "node server.cjs",
     "server": "node server.cjs",
     "livekit": "livekit-server --dev",
     "build": "vite build",
