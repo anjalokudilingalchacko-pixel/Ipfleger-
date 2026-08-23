@@ -1,4 +1,4 @@
-Here’s a polished but natural version you can use for your GitHub repository:
+
 
  Digital Learning Platform for Nursing Education
 
@@ -8,12 +8,12 @@ The current version is a **semi-functional prototype** that demonstrates how mul
 
 The dashboard currently includes or demonstrates features such as:
 
-* **Meeting and communication options** for collaboration between students and educators
-* **Central communication** for sharing information and coordinating activities
-* **Digital whiteboard functionality** for collaborative learning and discussion
-* **Medication documentation** for demonstrating digital documentation workflows
-* **General documentation tools** for recording and managing information
-* Integration of several **open-source applications and services** within a single dashboard environment
+Meeting and communication options** for collaboration between students and educators
+Central communication** for sharing information and coordinating activities
+Digital whiteboard functionality** for collaborative learning and discussion
+Medication documentation** for demonstrating digital documentation workflows
+General documentation tools** for recording and managing information
+Integration of several **open-source applications and services** within a single dashboard environment
 
 The prototype is intended as a foundation for future development. It can be further modified and expanded into a fully functional digital learning platform with additional features, improved security, user authentication, database integration, and institutional deployment capabilities.
 
